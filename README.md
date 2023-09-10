@@ -8,4 +8,5 @@ O aplicativo implementa uma classe Aluno e popula um List com vários alunos. Cr
 
 ## Autor
 Ednilson Geraldo Rossi
+
 (linktr.ee/ednilsonrossi)[https://linktr.ee/ednilsonrossi]
